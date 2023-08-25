@@ -1,4 +1,4 @@
-# Terms and Conditions
+# Terms of Service
 
 <div class="bubble">Copyright information</div>
 All the content and materials found on the website, including text, graphics, logos, images, videos,
