@@ -2,10 +2,12 @@ The wait is over, and we're excited to share our latest release with you: the ne
 Tweaker! We've put in a lot of hard work to make sure this version improves your device's
 performance like never before. And the best part? It's completely free!
 
+
 With the new Venix Tweaker, you're in charge. You can choose exactly what to apply and what to
 leave as is, its all up to you.
 
-But what's new in this release? You may ask so let's get to the point:
+
+But what's new in this release you may ask, so let's get to the point:
 
 
 <div class="bubble">Fresh look, Fresh Experience</div>
