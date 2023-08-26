@@ -7,20 +7,25 @@ leave as is, its all up to you.
 
 But what's new in this release? You may ask so let's get to the point:
 
-<div className="bubble">Fresh Look, Fresh Experience:</div>
+
+<div class="bubble">Fresh look, Fresh Experience</div>
+
 We were using the same code again and needed to change it up, so we have fully revamped our
 tweaker with a slick new design and look.
 
-<div className="bubble">Your Feedback, Our Improvements:</div>
+<div class="bubble">Your Feedback, Our Improvements</div>
+
 We've been listening to our community and our team has worked hard to make changes based on
 your suggestions. We've added features you'll love and removed the ones you didn't find useful.
 
-<div className="bubble">Easier Than Ever:</div>
+<div class="bubble">Easier Than Ever</div>
+
 You don’t need to be worried about creating a backup anymore. Our latest version automatically
 creates restore points and backs up your registry. No hassle, no stress – just a smoother experience
 for you.
 
-<div className="bubble">The power is in your hands:</div>
+<div class="bubble">The power is in your hands</div>
+
 Once installed, you're in complete control of what you want to apply. You apply the options which you
 want to implement or not, its your preferences!
 
