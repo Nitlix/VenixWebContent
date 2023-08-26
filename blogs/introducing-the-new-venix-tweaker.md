@@ -1,6 +1,7 @@
-The wait is over, and we're excited to share our latest release with you: the new and improved Venix
-Tweaker! We've put in a lot of hard work to make sure this version improves your device's
-performance like never before. And the best part? It's completely free!
+Hello Venix members, we know you been waiting and asking, and now we're excited to share our latest release the new and improved Venix Tweaker!
+
+We've put in a lot of hard work to make sure this version improves your device's performance like never before. And the best part? It's completely free!
+
 
 
 With the new Venix Tweaker, you're in charge. You can choose exactly what to apply and what to
