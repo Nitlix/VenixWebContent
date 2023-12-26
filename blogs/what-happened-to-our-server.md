@@ -20,5 +20,5 @@ If you're an OG premium user, then please contact the staff team so that we can 
 <br />
 <br />
 <a href="https://discord.gg/tweaks">
-  <div class="bubble" style="border: 1px grey; background: none;">Join the New Server</div>
+  <div class="bubble" style={{border: "1px grey", background: "none"}}>Join the New Server</div>
 </a>
