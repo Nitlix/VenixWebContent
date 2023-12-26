@@ -1,11 +1,9 @@
 Good day Venix Lovers! We know some of you were confused about what happened and why our Discord Server has suddenly disappeared, and we'll answer it in this blog.
 <br />
 
-
 <div class="bubble">What Happened 🤔</div>
 
 On the midday of December 25th our server was deleted, and most of the staff members' accounts were disabled. We suspect that someone spread disinformation about our tweaker containing malicous code, and that led to Discord pulling the false wrongful alarm on us.
-
 
 <div class="bubble">But we're back 💪</div>
 
