@@ -10,6 +10,9 @@ All the material and intellectual assets presented on this website are the right
 content on this site is accessible exclusively within the limits of the provided restricted license.
 
 <div class="bubble">Disclaimer</div>
-Applying our tweaks does not assure a increase in FPS or performance from Venix. Each system
-varies. By applying these optimization, you acknowledge that Venix cannot be held accountable for
+Our Tweaks are a collection of optimisations which change system settings. Applying those said tweaks does not assure a increase in FPS or performance from Venix because each system varies. We recommend making a restore point so that any issues that may arise can be reversed. 
+By applying our optimisations, you acknowledge that Venix cannot be held accountable for
 any potential issues that may arise.
+
+<br /><br />
+Last updated on 2 Jan 2024.
