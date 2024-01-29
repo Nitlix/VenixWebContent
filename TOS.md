@@ -1,5 +1,10 @@
 # Terms of Service
 
+This statement applies to the Venix Tweaking Utilities software (the "Software") licensed and protected under NITLIX HOLDINGS LTD. (the "Licensor").
+
+<div class="bubble">Usage rules</div>
+You may not modify, adapt, reverse engineer, decompile, or disassemble the Software, in whole or in part, in any manner. The licensor may grant you a worldwide, non-exclusive, non-transferable, revocable license to use the Software for personal or internal business purposes. You may not modify, adapt, reverse engineer, decompile, or disassemble the Software, in whole or in part, in any manner. You may not distribute, sublicense, or sell the Software, in whole or in part, to any third party, whether for commercial or non-commercial purposes.
+
 <div class="bubble">Copyright information</div>
 All the content and materials found on the website, including text, graphics, logos, images, videos,
 audio clips, data compilations, and software, belong to Venix or its content suppliers. These assets
